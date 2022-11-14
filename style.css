@@ -28,6 +28,10 @@ li {
     padding: 10px;
 }
 
+.li-grey {
+    margin-inline: 10px;
+}
+
 li:nth-of-type(even) {
     background-color: #e0e0e0;
 
